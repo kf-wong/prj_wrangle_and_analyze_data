@@ -1,5 +1,8 @@
 # prj_wrangle_and_analyze_data
-This is the repositoty of 'Wangle and Analyze Data' project of Udacity.
+
+* Gathered data from the archive tweets from [WeRateDogs](https://twitter.com/dog_rates) and other web resources including twitter API.
+* Assessed and cleaned datasets.
+* Performed analysis and provided the visualization of the results: which dog breeds and dog stages are most popular in terms of the retweet numbers, favorite numbers and the numbers of occurrences in tweets.
 
 ## Quick Start
 1. Clone this project to your local.
